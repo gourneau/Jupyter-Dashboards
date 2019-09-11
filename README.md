@@ -9,6 +9,12 @@ conda activate dashboards
 bash postBuild
 ```
 
+# Stand alone
+
+```
+voila
+```
+
 ## Notes
 to update env
 ```
