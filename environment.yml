@@ -4,3 +4,10 @@ channels:
   - defaults
 dependencies:
   - voila=0.1.10
+  - widgetsnbextension
+  # Python Kernel
+  - ipykernel
+  - ipywidgets
+  - jupyterlab
+  - altair
+  - ipykernel
