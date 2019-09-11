@@ -17,5 +17,8 @@ dependencies:
   - pip
   - pip:
     - ipymaterialui
+    - bqplot
+    - ipyvuetify
+    - voila-vuetify
 
   
