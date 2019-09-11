@@ -5,7 +5,6 @@ channels:
 dependencies:
   - voila=0.1.10
   - widgetsnbextension
-  # Python Kernel
   - ipykernel
   - ipywidgets
   - jupyterlab
@@ -15,10 +14,10 @@ dependencies:
   - matplotlib
   - ipysheet
   - pip
-  - pip:
-    - ipymaterialui
-    - bqplot
-    - ipyvuetify
-    - voila-vuetify
+  - bash_kernel
+  - bqplot
+#  - pip:
+#    - bqplot
+
 
   

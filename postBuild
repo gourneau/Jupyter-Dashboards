@@ -3,3 +3,4 @@ jupyter labextension install @jupyter-voila/jupyterlab-preview
 jupyter labextension install ipysheet
 jupyter serverextension enable voila --sys-prefix
 jupyter trust *.ipynb
+python -m bash_kernel.install
