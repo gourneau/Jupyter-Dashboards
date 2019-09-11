@@ -11,3 +11,4 @@ dependencies:
   - jupyterlab
   - altair
   - ipykernel
+  - nodejs=11
