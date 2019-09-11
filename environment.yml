@@ -12,3 +12,4 @@ dependencies:
   - altair
   - ipykernel
   - nodejs=12
+  - matplotlib
