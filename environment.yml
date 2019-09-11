@@ -13,3 +13,4 @@ dependencies:
   - ipykernel
   - nodejs=12
   - matplotlib
+  - ipysheet

@@ -1,3 +1,5 @@
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install @jupyter-voila/jupyterlab-preview
+jupyter labextension install ipysheet
 jupyter serverextension enable voila --sys-prefix
+
