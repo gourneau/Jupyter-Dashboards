@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - voila=0.1.10
+  - voila
   - widgetsnbextension
   - ipykernel
   - ipywidgets
